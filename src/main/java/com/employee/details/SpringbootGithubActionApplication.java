@@ -14,9 +14,9 @@ public class SpringbootGithubActionApplication {
 	}
 	
 	@GetMapping("/details")
-	public void add() {
+	public String  add() {
 		
-		System.out.println("Welcome to Git Hub action program");
+		return "Welcome to Git Hub action program";
 	}
 
 }
