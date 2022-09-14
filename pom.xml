@@ -37,7 +37,7 @@
 			</plugin>
 		</plugins>
 	
-	<finalName>springboot-docker-guihubaction</finalName>
+	<finalName>springboot-githubaction-example</finalName>
 	
 	</build>
 
